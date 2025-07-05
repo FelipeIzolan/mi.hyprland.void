@@ -53,7 +53,8 @@ $ hyprland
 
 ## 🖼️ Screenshoot
 
-![image](https://github.com/user-attachments/assets/37ff46b3-880e-4be1-ba39-0af430bcc4b4)
-![image](https://github.com/user-attachments/assets/bc8cf555-defe-4c6f-9983-830266a5f927)
-![image](https://github.com/user-attachments/assets/173d1b3c-8c46-4243-8345-833691381628)
+![image](https://github.com/user-attachments/assets/56eca4c0-f49c-4939-96d7-863c5c3c7c66)
+![image](https://github.com/user-attachments/assets/7ee00a37-36d5-419b-9d7f-0939185103db)
+![image](https://github.com/user-attachments/assets/db5d4773-a02a-4d83-8459-de0ea758649b)
+
 
