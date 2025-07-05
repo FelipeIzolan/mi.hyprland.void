@@ -1,0 +1,28 @@
+{
+  "layer": "top",
+  "modules-left": [
+    "hyprland/workspaces"
+  ],
+  "modules-center": [
+  ],
+  "modules-right": [
+    "cpu", 
+    "memory",
+    "clock",
+    "custom/power",
+  ],
+  "hyprland/workspaces": {
+    "format": "{icon}",
+    "on-click": "activate",
+    "persistent-workspaces": { "*": 4 }
+  },
+  "cpu": {
+    "format": "<span color='#FFFAC2'> </span>{}%"
+  },
+  "memory": {
+    "format": "<span color='#5DE4C7'> </span>{}%",
+  },
+  "clock": {
+    "format": "<span color='#D0679D'>󰥔 </span>{:%I:%M%p}"
+  }
+}
