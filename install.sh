@@ -37,6 +37,7 @@ sudo xbps-remove -y xdg-user-dirs
 mkdir -p ~/.cache
 mkdir -p ~/.local/share/fonts
 mkdir -p ~/.config/service/dbus
+mkdir -p ~/.local/share/icons
 
 sudo chmod -R 777 ~/.cache
 
