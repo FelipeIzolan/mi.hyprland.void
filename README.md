@@ -7,7 +7,7 @@ Minimal void linux setup (wayland + hyprland)
 ```
 git clone https://github.com/FelipeIzolan/mi.void.git
 cd mi.void
-./install.sh
+./setup.sh
 ```
 
 > [!WARNING]
@@ -16,10 +16,10 @@ cd mi.void
 
 **Starting**
 
-By default, no display manager is used, so to start the compositor, in tty type 'hyprland'.
+By default, no display manager is used, so to start the compositor, in tty:
 
 ```
-$ hyprland
+$ dbus-run-session hyprland
 ```
 
 ## 💽 Pieces of Software
@@ -56,5 +56,3 @@ $ hyprland
 ![image](https://github.com/user-attachments/assets/56eca4c0-f49c-4939-96d7-863c5c3c7c66)
 ![image](https://github.com/user-attachments/assets/7ee00a37-36d5-419b-9d7f-0939185103db)
 ![image](https://github.com/user-attachments/assets/db5d4773-a02a-4d83-8459-de0ea758649b)
-
-
