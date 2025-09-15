@@ -1,4 +1,4 @@
-# 🌀 mi.void
+# 🌀 mi.hyprland.void
 
 Minimal void linux setup (wayland + hyprland)
 
